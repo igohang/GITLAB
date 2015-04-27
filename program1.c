@@ -4,7 +4,7 @@ void main()
   int win_lottery_no[10] = {1522, 1711, 7777, 8888, 9999, 8876, 1215, 4232,
                                 9155, 9995};
   float win_amount[10] = {50000, 10000, 10000, 5000, 5000, 5000, 5000, 3000,
-                               3000, 3000};
+                               2000, 1000};
   int N = 10;
   int i, won, search_lottery_no;  //won is 0 if not won, 1 if has won.
   // You may not use any more variable names
