@@ -19,7 +19,7 @@ void main()
       if(search_lottery_no==win_lottery_no[i])
       {
       won=1;
-      printf("Congratulations You Won %.2f Bath!!!",win_amount[i]);
+      printf("Congratulations You Won!!!!!! %.2f Bath!!!",win_amount[i]);
       i=10;
       }
       else
@@ -27,7 +27,7 @@ void main()
   }
   if(won==0)
   {
-     printf("Sorry Lottery Number %d did not win",search_lottery_no);
+     printf("Sorry Lottery Number %d did not win!!!!!!!!",search_lottery_no);
   }
   printf("\nEnter your Lottery Number (0 to end): ");
   scanf("%d", &search_lottery_no);
