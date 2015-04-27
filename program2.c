@@ -12,7 +12,7 @@ int i, NumberOfItems, Quantity[MaxItems], InvoiceNumber;
 float UnitPrice[MaxItems], ItemValue[MaxItems], InvoiceValue, InvoiceTax, InvoiceTotalAmount;
 float DailyValue, DailyTax, DailyTotalAmount;
 /*Create Code Price List*/
-ItemCodeList[0] = 100; ItemPriceList[0] = 15.0; strcpy(ItemNameList[0], "Coke Can");
+ItemCodeList[0] = 100; ItemPriceList[0] = 15.0; strcpy(ItemNameList[0], "Pepsi Can");
 ItemCodeList[1] = 101; ItemPriceList[1] = 25.0; strcpy(ItemNameList[1], "Reynold Pencil");
 ItemCodeList[2] = 102; ItemPriceList[2] = 40.0; strcpy(ItemNameList[2], "Bic Pen");
 ItemCodeList[3] = 103; ItemPriceList[3] = 20; strcpy(ItemNameList[3], "Kit Kat");
